@@ -1,6 +1,4 @@
----
-title: "README"
-output: html_document
+README
 ---
 Purpose
 ---
