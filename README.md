@@ -28,7 +28,7 @@ The file activity_labels.txt contains the descpritive names for the activities, 
 
 Descriptive variable names
 ---
-The features.txt file has already been read and used, so now is the time for at bit of cleaning and removing unwanted symbols. The abreviated descriptive names is kept, to avoid the variables names feeling too long. For further explanation of the technical names, the features_info.txt file can be read.
+The features.txt file has already been read and used, so now is the time for at bit of cleaning and removing unwanted symbols. The abbreviated descriptive names is kept, to avoid the variables names feeling too long. For further explanation of the technical names, the features_info.txt file can be read.
 
 Tidying
 ---
